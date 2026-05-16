@@ -63,42 +63,64 @@ La soutenance finale est evaluee de maniere **collegiale** (pairs + enseignants)
 ### Notebooks du cours CoursIA
 Les notebooks suivants sont disponibles dans le depot CoursIA ([jsboige/CoursIA](https://github.com/jsboige/CoursIA)) et constituent des prerequis ou des points de depart pour les projets :
 
-#### Logique formelle et SAT/SMT
+#### Demonstration automatique et typage dependant (Lean 4)
+- **SymbolicAI/Lean/** : 12 notebooks — Lean-1 (Setup), Lean-2 (Dependent Types), Lean-3 (Propositions & Proofs), Lean-4 (Quantifiers), Lean-5 (Tactics), Lean-6 (Mathlib), Lean-7 (LLM Integration), Lean-8 (Agentic Proving), Lean-9 (Semantic Kernel Multi-Agents), Lean-10 (LeanDojo), Lean-11 (Neural Theorem Proving)
+
+#### Logique formelle, SAT/SMT et solveurs
 - **SymbolicAI/Linq2Z3.ipynb** : Z3 SMT Solver en C#
 - **SymbolicAI/OR-tools-Stiegler.ipynb** : OR-Tools CP en C#
-- **Sudoku/** : 18 notebooks couvrant Sudoku avec multiples solveurs (Z3, CP-SAT, backtracking)
+- **Sudoku/** : 18 notebooks couvrant Sudoku avec multiples solveurs (backtracking, DLX, GA, SA, PSO, Norvig, OR-Tools, Choco, Z3, BDD, neural, LLM)
+
+#### TweetyProject — Logique et Argumentation
+- **SymbolicAI/Tweety/** : 11 notebooks — Tweety-1 (Setup), Tweety-2 (Basic Logics), Tweety-3 (Advanced Logics), Tweety-4 (Belief Revision/AGM), Tweety-5 (Abstract Argumentation/Dung), Tweety-6 (Structured Argumentation/ASPIC+), Tweety-7a (Extended Frameworks), Tweety-7b (Ranking & Probabilistic), Tweety-8 (Agent Dialogues), Tweety-9 (Preferences)
+
+#### Web Semantique et Graphes de Connaissances
+- **SymbolicAI/SemanticWeb/** : 13 notebooks — SW-1 (Setup C#/Python), SW-2 (RDF), SW-3 (Graph Operations), SW-4 (SPARQL), SW-5 (Linked Data), SW-6 (RDFS), SW-7 (OWL), SW-8 (SHACL), SW-9 (JSON-LD), SW-10 (RDF*), SW-11 (Knowledge Graphs), SW-12 (GraphRAG), SW-13 (Reasoners)
 
 #### Smart Contracts et Blockchain
-- **SymbolicAI/SmartContracts/** : Serie de 27 notebooks (SC-0 a SC-26) couvrant blockchain, Solidity, verification formelle (SC-14), fuzz testing (SC-13), cryptographie ZKP/HE (SC-15/16)
+- **SymbolicAI/SmartContracts/** : 27 notebooks (SC-0 a SC-26) — cypherpunk, Solidity, Foundry, ERC-20/721, DeFi, DAO Governance, Account Abstraction, LLM-assisted contracts, fuzz testing (SC-13), formal verification (SC-14), ZKP (SC-15), homomorphic encryption (SC-16), voting, Vyper, Bitcoin Script, Move/Sui, Solana/Anchor, cross-chain, deployment
+
+#### Analyse d'Argumentation (Agentic)
+- **SymbolicAI/Argument_Analysis/** : 7 notebooks — Agentic-0 (Init), Agentic-1 (Informal Argument Agent), Agentic-2 (Planning-Based Agent), Agentic-3 (Orchestration multi-agent)
 
 #### Planification
-- **SymbolicAI/Planners/** : Planners-1 a Planners-12 couvrant PDDL, Fast Downward, planification temporelle, HTN, LLM Planning
+- **SymbolicAI/Planners/** : 12 notebooks — Planners-1 (Intro), Planners-2 (PDDL), Planners-3 (State Space), Planners-4 (Fast Downward), Planners-5 (Heuristics), Planners-6 (Domains), Planners-7 (OR-Tools), Planners-8 (Temporal), Planners-9 (HTN), Planners-10 (LLM Planning), Planners-11 (Unified Planning), Planners-12 (LOOP)
 
-#### Theorie des Jeux
-- **GameTheory/** : 17+ notebooks couvrant Nash Equilibrium, Cooperative Games, Shapley Value, Mechanism Design
-
-#### Programmation par Contraintes
-- **Search/Part2-CSP/** : CSP-1 (Fondamentaux), CSP-4 (Scheduling), CSP-5 (Optimization), CSP-6 (Hybridation CP+SAT, LLM+CSP), CSP-7 (Soft Constraints), CSP-9 (Distributed CSP)
-- **Search/Applications/CSP/** : App-4 (Job-Shop Scheduling), App-8 (MiniZinc), App-11 (Picross)
+#### Theorie des Jeux et Choix Social
+- **GameTheory/** : 27 notebooks — forme normale, equilibres de Nash, zero-sum/minimax, evolution & trust, forme extensive, jeux combinatoires, induction, jeux bayesiens, reputation, information imparfaite/CFR, jeux cooperatifs/Shapley, mechanism design, choix social (Arrow SAT/Z3), multi-agent RL
 
 #### Recherche et Metaheuristiques
-- **Search/Part1-Foundations/** : Search-1 (StateSpace), Search-3 (A*, heuristiques), Search-4 (Local Search), Search-9 (Programmation lineaire), Search-11 (Metaheuristiques)
+- **Search/Part1-Foundations/** : 11 notebooks — StateSpace, uninformed, A*/heuristiques, local search, GA, adversarial/minimax, MCTS, Dancing Links, PL, automates symboliques, metaheuristiques
+
+#### Programmation par Contraintes
+- **Search/Part2-CSP/** : 9 notebooks — CSP-1 (Fondamentaux), CSP-2 (Consistency), CSP-3 (Advanced), CSP-4 (Scheduling), CSP-5 (Optimization), CSP-6 (Hybridation CP+SAT, LLM+CSP), CSP-7 (Soft Constraints), CSP-8 (Temporal CSP), CSP-9 (Distributed CSP)
+- **Search/Applications/CSP/** : 11 notebooks — N-Queens, Graph Coloring, Nurse Scheduling, Job-Shop, Timetabling, Minesweeper, Wordle, MiniZinc, Picross, Sports Scheduling, Crossword
+- **Search/Applications/Hybrid/** : 7 notebooks — Edge Detection, Portfolio Optimization, Connect Four, TSP Metaheuristics, VRP Logistics
 
 ---
 
 ## Index des Sujets
 
-### Categorie A : Logique Formelle, SAT et Demonstration Automatique
+### Categorie A : Demonstration Automatique et Typage Dependant (Lean 4)
 
 | # | Sujet | Difficulte |
 |---|-------|------------|
-| [A1](#a1---resolution-automatique-de-theoremes-par-sat) | Resolution automatique de theoremes par SAT | 3/5 |
-| [A2](#a2---synthese-de-programmes-par-programming-by-sketching) | Synthese de programmes par Programming-by-Sketching | 4/5 |
-| [A3](#a3---model-checking-de-protocoles-de-communication) | Model checking de protocoles de communication | 3/5 |
-| [A4](#a4---resolution-de-puzzles-logiques-par-smt) | Resolution de puzzles logiques par SMT | 2/5 |
-| [A5](#a5---demonstration-automatique-en-geometrie) | Demonstration automatique en geometrie | 4/5 |
+| [A1](#a1---preuve-formelle-dalgorithme-par-lean-4) | Preuve formelle d'algorithme par Lean 4 | 3/5 |
+| [A2](#a2---agent-llm-assiste-pour-la-preuve-formelle) | Agent LLM-assiste pour la preuve formelle | 4/5 |
+| [A3](#a3---theoreme-darrow-par-preuve-automatisee-satz3lean) | Theoreme d'Arrow par preuve automatisee (SAT/Z3/Lean) | 4/5 |
+| [A4](#a4---bibliotheque-de-preuves-mathlib-extensions) | Bibliotheque de preuves Mathlib — extensions | 3/5 |
 
-### Categorie B : Verification Formelle et Surete des Logiciels
+### Categorie B : Logique Formelle, SAT et Demonstration Automatique
+
+| # | Sujet | Difficulte |
+|---|-------|------------|
+| [B1](#b1---resolution-automatique-de-theoremes-par-sat) | Resolution automatique de theoremes par SAT | 3/5 |
+| [B2](#b2---synthese-de-programmes-par-programming-by-sketching) | Synthese de programmes par Programming-by-Sketching | 4/5 |
+| [B3](#b3---model-checking-de-protocoles-de-communication) | Model checking de protocoles de communication | 3/5 |
+| [B4](#b4---resolution-de-puzzles-logiques-par-smt) | Resolution de puzzles logiques par SMT | 2/5 |
+| [B5](#b5---demonstration-automatique-en-geometrie) | Demonstration automatique en geometrie | 4/5 |
+
+### Categorie C : Verification Formelle et Surete des Logiciels
 
 | # | Sujet | Difficulte |
 |---|-------|------------|
@@ -107,7 +129,7 @@ Les notebooks suivants sont disponibles dans le depot CoursIA ([jsboige/CoursIA]
 | [B3](#b3---analyse-statique-et-detection-de-vulnerabilites-par-abstraction) | Analyse statique et detection de vulnerabilites par abstraction | 3/5 |
 | [B4](#b4---preuves-de-correcteur-zero-knowledge-zk-snarks) | Preuves de correcteur Zero-Knowledge (zk-SNARKs) | 4/5 |
 
-### Categorie C : Planification et Ordonnancement
+### Categorie D : Planification et Ordonnancement
 
 | # | Sujet | Difficulte |
 |---|-------|------------|
@@ -116,7 +138,7 @@ Les notebooks suivants sont disponibles dans le depot CoursIA ([jsboige/CoursIA]
 | [C3](#c3---ordonnancement-multi-agent-par-csp-distribue) | Ordonnancement multi-agent par CSP distribue | 4/5 |
 | [C4](#c4---planification-temporelle-pour-systemes-cyber-physiques) | Planification temporelle pour systemes cyber-physiques | 4/5 |
 
-### Categorie D : Theorie des Jeux et Mechanism Design
+### Categorie E : Theorie des Jeux et Mechanism Design
 
 | # | Sujet | Difficulte |
 |---|-------|------------|
@@ -125,7 +147,7 @@ Les notebooks suivants sont disponibles dans le depot CoursIA ([jsboige/CoursIA]
 | [D3](#d3---jeux-cooperatifs-et-valeur-de-shapley) | Jeux cooperatifs et valeur de Shapley | 3/5 |
 | [D4](#d4---conception-de-mecanismes-resistants-a-la-manipulation) | Conception de mecanismes resistants a la manipulation | 4/5 |
 
-### Categorie E : Smart Contracts et Blockchain Symbolique
+### Categorie F : Smart Contracts et Blockchain Symbolique
 
 | # | Sujet | Difficulte |
 |---|-------|------------|
@@ -134,7 +156,16 @@ Les notebooks suivants sont disponibles dans le depot CoursIA ([jsboige/CoursIA]
 | [E3](#e3---circuits-zero-knowledge-sous-contraintes-arithmetiques) | Circuits Zero-Knowledge sous contraintes arithmetiques | 4/5 |
 | [E4](#e4---governance-decentralisee-et-vote-quadratique) | Governance decentralisee et vote quadratique | 3/5 |
 
-### Categorie F : Representation des Connaissances et Raisonnement
+### Categorie G : Web Semantique et Graphes de Connaissances
+
+| # | Sujet | Difficulte |
+|---|-------|------------|
+| [G1](#g1---construction-et-interrogation-dun-graphe-de-connaissances-par-sparql) | Construction et interrogation d'un graphe de connaissances par SPARQL | 3/5 |
+| [G2](#g2---raisonnement-owl-et-verification-de-coherence-dontologie) | Raisonnement OWL et verification de coherence d'ontologie | 3/5 |
+| [G3](#g3---graphrag-combine-knowledge-graphs-et-llm-pour-le-rag) | GraphRAG — combine Knowledge Graphs et LLM pour le RAG | 4/5 |
+| [G4](#g4---validation-de-donnees-par-shacl-shapes-constraint-language) | Validation de donnees par SHACL (Shapes Constraint Language) | 3/5 |
+
+### Categorie H : Representation des Connaissances et Raisonnement
 
 | # | Sujet | Difficulte |
 |---|-------|------------|
@@ -143,7 +174,7 @@ Les notebooks suivants sont disponibles dans le depot CoursIA ([jsboige/CoursIA]
 | [F3](#f3---graphes de-connaissances-et-reponse-a-des-questions) | Graphes de connaissances et reponse a des questions | 3/5 |
 | [F4](#f4---logique-description-et-raisonnement-sur-des-domaines-medicaux) | Logique de description et raisonnement sur des domaines medicaux | 4/5 |
 
-### Categorie G : Argumentation et Raisonnement Debateur
+### Categorie I : Argumentation et Raisonnement Debateur
 
 | # | Sujet | Difficulte |
 |---|-------|------------|
@@ -152,7 +183,7 @@ Les notebooks suivants sont disponibles dans le depot CoursIA ([jsboige/CoursIA]
 | [G3](#g3---argumentation-dialogique-multi-agents) | Argumentation dialogique multi-agents | 4/5 |
 | [G4](#g4---evaluation-automatique-de-la-qualite-argumentative) | Evaluation automatique de la qualite argumentative | 3/5 |
 
-### Categorie H : Agents Symboliques et Architecture Cognitive
+### Categorie J : Agents Symboliques et Architecture Cognitive
 
 | # | Sujet | Difficulte |
 |---|-------|------------|
@@ -161,7 +192,7 @@ Les notebooks suivants sont disponibles dans le depot CoursIA ([jsboige/CoursIA]
 | [H3](#h3---serveur-mcp-doutils-danalyse-symbolique) | Serveur MCP d'outils d'analyse symbolique | 3/5 |
 | [H4](#h4---integration-llm--solveurs-symboliques-llm-as-a-reasoner) | Integration LLM + solveurs symboliques (LLM-as-a-reasoner) | 4/5 |
 
-### Categorie I : Cryptographie Symbolique et Securite
+### Categorie K : Cryptographie Symbolique et Securite
 
 | # | Sujet | Difficulte |
 |---|-------|------------|
@@ -169,7 +200,7 @@ Les notebooks suivants sont disponibles dans le depot CoursIA ([jsboige/CoursIA]
 | [I2](#i2---verication-de-protocoles-cryptographiques-par-model-checking) | Verification de protocoles cryptographiques par model checking | 4/5 |
 | [I3](#i3---chiffrement-homomorphe-et-calcul-sur-donnees-chiffrees) | Chiffrement homomorphe et calcul sur donnees chiffrees | 4/5 |
 
-### Categorie J : Puzzles, Jeux et Problemes Combinatoires
+### Categorie L : Puzzles, Jeux et Problemes Combinatoires
 
 | # | Sujet | Difficulte |
 |---|-------|------------|

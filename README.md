@@ -127,114 +127,114 @@ Les notebooks suivants sont disponibles dans le depot CoursIA ([jsboige/CoursIA]
 
 | # | Sujet | Difficulte |
 |---|-------|------------|
-| [A1](#a1---preuve-formelle-dalgorithme-par-lean-4) | Preuve formelle d'algorithme par Lean 4 | 3/5 |
-| [A2](#a2---agent-llm-assiste-pour-la-preuve-formelle) | Agent LLM-assiste pour la preuve formelle | 4/5 |
-| [A3](#a3---theoreme-darrow-par-preuve-automatisee-satz3lean) | Theoreme d'Arrow par preuve automatisee (SAT/Z3/Lean) | 4/5 |
-| [A4](#a4---bibliotheque-de-preuves-mathlib-extensions) | Bibliotheque de preuves Mathlib — extensions | 3/5 |
+| [A1](#a1-preuve-formelle-dalgorithme-par-lean-4) | Preuve formelle d'algorithme par Lean 4 | 3/5 |
+| [A2](#a2-agent-llm-assiste-pour-la-preuve-formelle) | Agent LLM-assiste pour la preuve formelle | 4/5 |
+| [A3](#a3-theoreme-darrow-par-preuve-automatisee-satz3lean) | Theoreme d'Arrow par preuve automatisee (SAT/Z3/Lean) | 4/5 |
+| [A4](#a4-bibliotheque-de-preuves-mathlib-extensions) | Bibliotheque de preuves Mathlib — extensions | 3/5 |
 
 ### Categorie B : Logique Formelle, SAT et Demonstration Automatique
 
 | # | Sujet | Difficulte |
 |---|-------|------------|
-| [B1](#b1---resolution-automatique-de-theoremes-par-sat) | Resolution automatique de theoremes par SAT | 3/5 |
-| [B2](#b2---synthese-de-programmes-par-programming-by-sketching) | Synthese de programmes par Programming-by-Sketching | 4/5 |
-| [B3](#b3---model-checking-de-protocoles-de-communication) | Model checking de protocoles de communication | 3/5 |
-| [B4](#b4---resolution-de-puzzles-logiques-par-smt) | Resolution de puzzles logiques par SMT | 2/5 |
-| [B5](#b5---demonstration-automatique-en-geometrie) | Demonstration automatique en geometrie | 4/5 |
-| [B6](#b6---programmation-par-ensembles-de-reponses-asp-avec-clingo) | Programmation par ensembles de reponses (ASP) avec Clingo | 3/5 |
-| [B7](#b7---resolution-de-problemes-pspace-par-qbf-quantified-booleans) | Resolution de problemes PSPACE par QBF (Quantified Booleans) | 3/5 |
+| [B1](#b1-resolution-automatique-de-theoremes-par-sat) | Resolution automatique de theoremes par SAT | 3/5 |
+| [B2](#b2-synthese-de-programmes-par-programming-by-sketching) | Synthese de programmes par Programming-by-Sketching | 4/5 |
+| [B3](#b3-model-checking-de-protocoles-de-communication) | Model checking de protocoles de communication | 3/5 |
+| [B4](#b4-resolution-de-puzzles-logiques-par-smt) | Resolution de puzzles logiques par SMT | 2/5 |
+| [B5](#b5-demonstration-automatique-en-geometrie) | Demonstration automatique en geometrie | 4/5 |
+| [B6](#b6-programmation-par-ensembles-de-reponses-asp-avec-clingo) | Programmation par ensembles de reponses (ASP) avec Clingo | 3/5 |
+| [B7](#b7-resolution-de-problemes-pspace-par-qbf-quantified-booleans) | Resolution de problemes PSPACE par QBF (Quantified Booleans) | 3/5 |
 
 ### Categorie C : Verification Formelle et Surete des Logiciels
 
 | # | Sujet | Difficulte |
 |---|-------|------------|
-| [C1](#c1---verification-formelle-de-smart-contracts-solidity-par-smt) | Verification formelle de smart contracts Solidity par SMT | 3/5 |
-| [C2](#c2---fuzzing-guide-par-contraintes-constraint-based-fuzzing) | Fuzzing guide par contraintes (constraint-based fuzzing) | 4/5 |
-| [C3](#c3---analyse-statique-et-detection-de-vulnerabilites-par-abstraction) | Analyse statique et detection de vulnerabilites par abstraction | 3/5 |
-| [C4](#c4---preuves-de-correcteur-zero-knowledge-zk-snarks) | Preuves de correcteur Zero-Knowledge (zk-SNARKs) | 4/5 |
+| [C1](#c1-verification-formelle-de-smart-contracts-solidity-par-smt) | Verification formelle de smart contracts Solidity par SMT | 3/5 |
+| [C2](#c2-fuzzing-guide-par-contraintes-constraint-based-fuzzing) | Fuzzing guide par contraintes (constraint-based fuzzing) | 4/5 |
+| [C3](#c3-analyse-statique-et-detection-de-vulnerabilites-par-abstraction) | Analyse statique et detection de vulnerabilites par abstraction | 3/5 |
+| [C4](#c4-preuves-de-correcteur-zero-knowledge-zk-snarks) | Preuves de correcteur Zero-Knowledge (zk-SNARKs) | 4/5 |
 
 ### Categorie D : Planification et Ordonnancement
 
 | # | Sujet | Difficulte |
 |---|-------|------------|
-| [C1](#c1---planification-robotique-avec-pddl-et-integration-capteurs) | Planification robotique avec PDDL et integration capteurs | 3/5 |
-| [C2](#c2---planification-htn-pour-jeux-video) | Planification HTN pour jeux video | 3/5 |
-| [C3](#c3---ordonnancement-multi-agent-par-csp-distribue) | Ordonnancement multi-agent par CSP distribue | 4/5 |
-| [C4](#c4---planification-temporelle-pour-systemes-cyber-physiques) | Planification temporelle pour systemes cyber-physiques | 4/5 |
+| [D1](#d1-planification-robotique-avec-pddl-et-integration-capteurs) | Planification robotique avec PDDL et integration capteurs | 3/5 |
+| [D2](#d2-planification-htn-pour-jeux-video) | Planification HTN pour jeux video | 3/5 |
+| [D3](#d3-ordonnancement-multi-agent-par-csp-distribue) | Ordonnancement multi-agent par CSP distribue | 4/5 |
+| [D4](#d4-planification-temporelle-pour-systemes-cyber-physiques) | Planification temporelle pour systemes cyber-physiques | 4/5 |
 
 ### Categorie E : Theorie des Jeux et Mechanism Design
 
 | # | Sujet | Difficulte |
 |---|-------|------------|
-| [E1](#e1---comptabilite-maximin-et-equilibres-de-nash-par-programmation-lineaire) | Comptabilite maximin et equilibres de Nash par programmation lineaire | 3/5 |
-| [E2](#e2---encheres-combinatoires-et-allocation-de-biens-publics) | Encheres combinatoires et allocation de biens publics | 4/5 |
-| [E3](#e3---jeux-cooperatifs-et-valeur-de-shapley) | Jeux cooperatifs et valeur de Shapley | 3/5 |
-| [E4](#e4---conception-de-mecanismes-resistants-a-la-manipulation) | Conception de mecanismes resistants a la manipulation | 4/5 |
-| [E5](#e5---choix-social-computationnel-simulation-et-manipulation-electorale) | Choix social computationnel — simulation et manipulation electorale | 3/5 |
-| [E6](#e6---jeux-combinatoires-et-theorie-de-sprague-grundy) | Jeux combinatoires et theorie de Sprague-Grundy | 3/5 |
+| [E1](#e1-comptabilite-maximin-et-equilibres-de-nash-par-programmation-lineaire) | Comptabilite maximin et equilibres de Nash par programmation lineaire | 3/5 |
+| [E2](#e2-encheres-combinatoires-et-allocation-de-biens-publics) | Encheres combinatoires et allocation de biens publics | 4/5 |
+| [E3](#e3-jeux-cooperatifs-et-valeur-de-shapley) | Jeux cooperatifs et valeur de Shapley | 3/5 |
+| [E4](#e4-conception-de-mecanismes-resistants-a-la-manipulation) | Conception de mecanismes resistants a la manipulation | 4/5 |
+| [E5](#e5-choix-social-computationnel-simulation-et-manipulation-electorale) | Choix social computationnel — simulation et manipulation electorale | 3/5 |
+| [E6](#e6-jeux-combinatoires-et-theorie-de-sprague-grundy) | Jeux combinatoires et theorie de Sprague-Grundy | 3/5 |
 
 ### Categorie F : Smart Contracts et Blockchain Symbolique
 
 | # | Sujet | Difficulte |
 |---|-------|------------|
-| [F1](#f1---super-optimisation-de-gas-solidity-par-max-smt) | Super-optimisation de gas Solidity par Max-SMT | 4/5 |
-| [F2](#f2---ordonnancement-mev-resistant-de-transactions-on-chain) | Ordonnancement MEV-resistant de transactions on-chain | 3/5 |
-| [F3](#f3---circuits-zero-knowledge-sous-contraintes-arithmetiques) | Circuits Zero-Knowledge sous contraintes arithmetiques | 4/5 |
-| [F4](#f4---governance-decentralisee-et-vote-quadratique) | Governance decentralisee et vote quadratique | 3/5 |
+| [F1](#f1-super-optimisation-de-gas-solidity-par-max-smt) | Super-optimisation de gas Solidity par Max-SMT | 4/5 |
+| [F2](#f2-ordonnancement-mev-resistant-de-transactions-on-chain) | Ordonnancement MEV-resistant de transactions on-chain | 3/5 |
+| [F3](#f3-circuits-zero-knowledge-sous-contraintes-arithmetiques) | Circuits Zero-Knowledge sous contraintes arithmetiques | 4/5 |
+| [F4](#f4-governance-decentralisee-et-vote-quadratique) | Governance decentralisee et vote quadratique | 3/5 |
 
 ### Categorie G : Web Semantique et Graphes de Connaissances
 
 | # | Sujet | Difficulte |
 |---|-------|------------|
-| [G1](#g1---construction-et-interrogation-dun-graphe-de-connaissances-par-sparql) | Construction et interrogation d'un graphe de connaissances par SPARQL | 3/5 |
-| [G2](#g2---raisonnement-owl-et-verification-de-coherence-dontologie) | Raisonnement OWL et verification de coherence d'ontologie | 3/5 |
-| [G3](#g3---graphrag-combine-knowledge-graphs-et-llm-pour-le-rag) | GraphRAG — combine Knowledge Graphs et LLM pour le RAG | 4/5 |
-| [G4](#g4---validation-de-donnees-par-shacl-shapes-constraint-language) | Validation de donnees par SHACL (Shapes Constraint Language) | 3/5 |
+| [G1](#g1-construction-et-interrogation-dun-graphe-de-connaissances-par-sparql) | Construction et interrogation d'un graphe de connaissances par SPARQL | 3/5 |
+| [G2](#g2-raisonnement-owl-et-verification-de-coherence-dontologie) | Raisonnement OWL et verification de coherence d'ontologie | 3/5 |
+| [G3](#g3-graphrag-combine-knowledge-graphs-et-llm-pour-le-rag) | GraphRAG — combine Knowledge Graphs et LLM pour le RAG | 4/5 |
+| [G4](#g4-validation-de-donnees-par-shacl-shapes-constraint-language) | Validation de donnees par SHACL (Shapes Constraint Language) | 3/5 |
 
 ### Categorie H : Representation des Connaissances et Raisonnement
 
 | # | Sujet | Difficulte |
 |---|-------|------------|
-| [H1](#h1---systeme-de-maintenance-de-verite-jtms) | Systeme de maintenance de verite (JTMS) | 3/5 |
-| [H2](#h2---ontologies-et-raisonnement-semantique-owl-reasoning) | Ontologies et raisonnement semantique (OWL Reasoning) | 3/5 |
-| [H3](#h3---graphes-de-connaissances-et-reponse-a-des-questions) | Graphes de connaissances et reponse a des questions | 3/5 |
-| [H4](#h4---logique-de-description-et-raisonnement-sur-des-domaines-medicaux) | Logique de description et raisonnement sur des domaines medicaux | 4/5 |
+| [H1](#h1-systeme-de-maintenance-de-verite-jtms) | Systeme de maintenance de verite (JTMS) | 3/5 |
+| [H2](#h2-ontologies-et-raisonnement-semantique-owl-reasoning) | Ontologies et raisonnement semantique (OWL Reasoning) | 3/5 |
+| [H3](#h3-graphes-de-connaissances-et-reponse-a-des-questions) | Graphes de connaissances et reponse a des questions | 3/5 |
+| [H4](#h4-logique-de-description-et-raisonnement-sur-des-domaines-medicaux) | Logique de description et raisonnement sur des domaines medicaux | 4/5 |
 
 ### Categorie I : Argumentation et Raisonnement Debateur
 
 | # | Sujet | Difficulte |
 |---|-------|------------|
-| [I1](#i1---analyse-et-detection-de-sophismes-par-apprentissage-symbolique) | Analyse et detection de sophismes par apprentissage symbolique | 3/5 |
-| [I2](#i2---generation-de-contre-arguments-par-raisonnement-formel) | Generation de contre-arguments par raisonnement formel | 3/5 |
-| [I3](#i3---argumentation-dialogique-multi-agents) | Argumentation dialogique multi-agents | 4/5 |
-| [I4](#i4---evaluation-automatique-de-la-qualite-argumentative) | Evaluation automatique de la qualite argumentative | 3/5 |
-| [I5](#i5---benchmarks-iccma-solveurs-dargumentation-de-dung) | Benchmarks ICCMA — solveurs d'argumentation de Dung | 2/5 |
-| [I6](#i6---argumentation-structuree-aspic--logique-defaisable-delpaba) | Argumentation structuree ASPIC+ et logique defaisable (DeLP/ABA) | 3/5 |
+| [I1](#i1-analyse-et-detection-de-sophismes-par-apprentissage-symbolique) | Analyse et detection de sophismes par apprentissage symbolique | 3/5 |
+| [I2](#i2-generation-de-contre-arguments-par-raisonnement-formel) | Generation de contre-arguments par raisonnement formel | 3/5 |
+| [I3](#i3-argumentation-dialogique-multi-agents) | Argumentation dialogique multi-agents | 4/5 |
+| [I4](#i4-evaluation-automatique-de-la-qualite-argumentative) | Evaluation automatique de la qualite argumentative | 3/5 |
+| [I5](#i5-benchmarks-iccma-solveurs-dargumentation-de-dung) | Benchmarks ICCMA — solveurs d'argumentation de Dung | 2/5 |
+| [I6](#i6-argumentation-structuree-aspic-et-logique-defaisable-delpaba) | Argumentation structuree ASPIC+ et logique defaisable (DeLP/ABA) | 3/5 |
 
 ### Categorie J : Agents Symboliques et Architecture Cognitive
 
 | # | Sujet | Difficulte |
 |---|-------|------------|
-| [J1](#j1---systeme-multi-agents-de-resolution-de-problemes-par-planification) | Systeme multi-agents de resolution de problemes par planification | 3/5 |
-| [J2](#j2---agent-cognitif-hybride-symbolique--subsymbolique) | Agent cognitif hybride (symbolique + subsymbolique) | 4/5 |
-| [J3](#j3---serveur-mcp-doutils-danalyse-symbolique) | Serveur MCP d'outils d'analyse symbolique | 3/5 |
-| [J4](#j4---integration-llm--solveurs-symboliques-llm-as-a-reasoner) | Integration LLM + solveurs symboliques (LLM-as-a-reasoner) | 4/5 |
+| [J1](#j1-systeme-multi-agents-de-resolution-de-problemes-par-planification) | Systeme multi-agents de resolution de problemes par planification | 3/5 |
+| [J2](#j2-agent-cognitif-hybride-symbolique-subsymbolique) | Agent cognitif hybride (symbolique + subsymbolique) | 4/5 |
+| [J3](#j3-serveur-mcp-doutils-danalyse-symbolique) | Serveur MCP d'outils d'analyse symbolique | 3/5 |
+| [J4](#j4-integration-llm-solveurs-symboliques-llm-as-a-reasoner) | Integration LLM + solveurs symboliques (LLM-as-a-reasoner) | 4/5 |
 
 ### Categorie K : Cryptographie Symbolique et Securite
 
 | # | Sujet | Difficulte |
 |---|-------|------------|
-| [K1](#k1---cryptanalyse-par-contraintes-de-chiffrements-classiques) | Cryptanalyse par contraintes de chiffrements classiques | 3/5 |
-| [K2](#k2--verification-de-protocoles-cryptographiques-par-model-checking) | Verification de protocoles cryptographiques par model checking | 4/5 |
-| [K3](#k3---chiffrement-homomorphe-et-calcul-sur-donnees-chiffrees) | Chiffrement homomorphe et calcul sur donnees chiffrees | 4/5 |
+| [K1](#k1-cryptanalyse-par-contraintes-de-chiffrements-classiques) | Cryptanalyse par contraintes de chiffrements classiques | 3/5 |
+| [K2](#k2-verification-de-protocoles-cryptographiques-par-model-checking) | Verification de protocoles cryptographiques par model checking | 4/5 |
+| [K3](#k3-chiffrement-homomorphe-et-calcul-sur-donnees-chiffrees) | Chiffrement homomorphe et calcul sur donnees chiffrees | 4/5 |
 
 ### Categorie L : Puzzles, Jeux et Problemes Combinatoires
 
 | # | Sujet | Difficulte |
 |---|-------|------------|
-| [J1](#j1---resolution-de-sudoku-par-multiples-solveurs-sat-cp-lll) | Resolution de Sudoku par multiples solveurs (SAT, CP, LLL) | 2/5 |
-| [J2](#j2---generation-procedurale-par-contraintes-de-niveaux-de-jeu) | Generation procedurale par contraintes de niveaux de jeu | 3/5 |
-| [J3](#j3---resolution-de-jeux-combinatoires-par-minimax-et-alpha-beta-symbolique) | Resolution de jeux combinatoires par minimax et alpha-beta symbolique | 3/5 |
+| [L1](#l1-resolution-de-sudoku-par-multiples-solveurs-sat-cp-lll) | Resolution de Sudoku par multiples solveurs (SAT, CP, LLL) | 2/5 |
+| [L2](#l2-generation-procedurale-par-contraintes-de-niveaux-de-jeu) | Generation procedurale par contraintes de niveaux de jeu | 3/5 |
+| [L3](#l3-resolution-de-jeux-combinatoires-par-minimax-et-alpha-beta-symbolique) | Resolution de jeux combinatoires par minimax et alpha-beta symbolique | 3/5 |
 
 ---
 
@@ -244,11 +244,11 @@ Les notebooks suivants sont disponibles dans le depot CoursIA ([jsboige/CoursIA]
 
 | # | Sujet | Difficulte |
 |---|-------|------------|
-| [M1](#m1---pipeline-llm--verificateur-symbolique-pour-la-generation-fiable) | Pipeline LLM + verificateur symbolique pour la generation fiable | 3/5 |
-| [M2](#m2---reseau-de-neurones-logique-logical-neural-networks) | Reseau de neurones logique (Logical Neural Networks) | 4/5 |
-| [M3](#m3---regression-symbolique-decouvrir-des-equations-a-partir-de-donnees) | Regression symbolique -- decouvrir des equations a partir de donnees | 3/5 |
-| [M4](#m4---decouverte-scientifique-automatisee-par-regression-symbolique-et-llm) | Decouverte scientifique automatisee par regression symbolique et LLM | 4/5 |
-| [M5](#m5---evaluation-comparee-llm-vs-approches-symboliques-sur-un-benchmark) | Evaluation comparee LLM vs. approches symboliques sur un benchmark | 2/5 |
+| [M1](#m1-pipeline-llm-verificateur-symbolique-pour-la-generation-fiable) | Pipeline LLM + verificateur symbolique pour la generation fiable | 3/5 |
+| [M2](#m2-reseau-de-neurones-logique-logical-neural-networks) | Reseau de neurones logique (Logical Neural Networks) | 4/5 |
+| [M3](#m3-regression-symbolique-decouvrir-des-equations-a-partir-de-donnees) | Regression symbolique -- decouvrir des equations a partir de donnees | 3/5 |
+| [M4](#m4-decouverte-scientifique-automatisee-par-regression-symbolique-et-llm) | Decouverte scientifique automatisee par regression symbolique et LLM | 4/5 |
+| [M5](#m5-evaluation-comparee-llm-vs-approches-symboliques-sur-un-benchmark) | Evaluation comparee LLM vs. approches symboliques sur un benchmark | 2/5 |
 
 ### Categorie N : Raisonnement Causal et Decision
 
@@ -256,10 +256,10 @@ Les notebooks suivants sont disponibles dans le depot CoursIA ([jsboige/CoursIA]
 
 | # | Sujet | Difficulte |
 |---|-------|------------|
-| [N1](#n1---decouverte-causale-a-partir-de-donnees-observationnelles) | Decouverte causale a partir de donnees observationnelles | 3/5 |
-| [N2](#n2---raisonnement-causal-par-le-do-calculus-avec-dowhy) | Raisonnement causal par le do-calculus avec DoWhy | 3/5 |
-| [N3](#n3---diagnostic-abductif-raisonnement-par-abduction) | Diagnostic abductif — raisonnement par abduction | 3/5 |
-| [N4](#n4---evaluation-du-raisonnement-causal-des-llm) | Evaluation du raisonnement causal des LLM | 4/5 |
+| [N1](#n1-decouverte-causale-a-partir-de-donnees-observationnelles) | Decouverte causale a partir de donnees observationnelles | 3/5 |
+| [N2](#n2-raisonnement-causal-par-le-do-calculus-avec-dowhy) | Raisonnement causal par le do-calculus avec DoWhy | 3/5 |
+| [N3](#n3-diagnostic-abductif-raisonnement-par-abduction) | Diagnostic abductif — raisonnement par abduction | 3/5 |
+| [N4](#n4-evaluation-du-raisonnement-causal-des-llm) | Evaluation du raisonnement causal des LLM | 4/5 |
 
 ### Categorie O : Raisonnement Qualitatif et Bon Sens
 
@@ -267,10 +267,10 @@ Les notebooks suivants sont disponibles dans le depot CoursIA ([jsboige/CoursIA]
 
 | # | Sujet | Difficulte |
 |---|-------|------------|
-| [O1](#o1---raisonnement-spatial-qualitatif-par-les-calculs-rcc8) | Raisonnement spatial qualitatif par les calculs RCC8 | 3/5 |
-| [O2](#o2---raisonnement-temporel-qualitatif-algebres-dallen-et-stp) | Raisonnement temporel qualitatif — Algebres d'Allen et STP | 3/5 |
-| [O3](#o3---raisonnement-de-bon-sens-par-graphe-de-connaissances-commonsense) | Raisonnement de bon sens par graphe de connaissances (Commonsense) | 3/5 |
-| [O4](#o4---raisonnement-par-analogie-theorie-du-mapping-structurel) | Raisonnement par analogie — theorie du mapping structurel | 3/5 |
+| [O1](#o1-raisonnement-spatial-qualitatif-par-les-calculs-rcc8) | Raisonnement spatial qualitatif par les calculs RCC8 | 3/5 |
+| [O2](#o2-raisonnement-temporel-qualitatif-algebres-dallen-et-stp) | Raisonnement temporel qualitatif — Algebres d'Allen et STP | 3/5 |
+| [O3](#o3-raisonnement-de-bon-sens-par-graphe-de-connaissances-commonsense) | Raisonnement de bon sens par graphe de connaissances (Commonsense) | 3/5 |
+| [O4](#o4-raisonnement-par-analogie-theorie-du-mapping-structurel) | Raisonnement par analogie — theorie du mapping structurel | 3/5 |
 
 ### Categorie P : Verification Formelle des Systemes IA
 
@@ -278,9 +278,9 @@ Les notebooks suivants sont disponibles dans le depot CoursIA ([jsboige/CoursIA]
 
 | # | Sujet | Difficulte |
 |---|-------|------------|
-| [P1](#p1---verification-de-robustesse-de-reseaux-de-neurones-par-abstraction) | Verification de robustesse de reseaux de neurones par abstraction | 4/5 |
-| [P2](#p2---verification-de-politiques-rl-par-contraintes-formelles) | Verification de politiques RL par contraintes formelles | 4/5 |
-| [P3](#p3---specification-et-verification-de-securite-dagents-llm-par-logique-temporelle) | Specification et verification de securite d'agents LLM par logique temporelle | 4/5 |
+| [P1](#p1-verification-de-robustesse-de-reseaux-de-neurones-par-abstraction) | Verification de robustesse de reseaux de neurones par abstraction | 4/5 |
+| [P2](#p2-verification-de-politiques-rl-par-contraintes-formelles) | Verification de politiques RL par contraintes formelles | 4/5 |
+| [P3](#p3-specification-et-verification-de-securite-dagents-llm-par-logique-temporelle) | Specification et verification de securite d'agents LLM par logique temporelle | 4/5 |
 
 ### Categorie Q : Raisonnement Ethique et Normatif
 
@@ -288,9 +288,9 @@ Les notebooks suivants sont disponibles dans le depot CoursIA ([jsboige/CoursIA]
 
 | # | Sujet | Difficulte |
 |---|-------|------------|
-| [Q1](#q1---raisonneur-deontique-logique-des-normes-et-obligations) | Raisonneur deontique — logique des normes et obligations | 3/5 |
-| [Q2](#q2---verification-dalignement-de-valeurs-par-methodes-formelles) | Verification d'alignement de valeurs par methodes formelles | 4/5 |
-| [Q3](#q3---raisonnement-juridique-formel-par-argumentation-et-logique) | Raisonnement juridique formel par argumentation et logique | 3/5 |
+| [Q1](#q1-raisonneur-deontique-logique-des-normes-et-obligations) | Raisonneur deontique — logique des normes et obligations | 3/5 |
+| [Q2](#q2-verification-dalignement-de-valeurs-par-methodes-formelles) | Verification d'alignement de valeurs par methodes formelles | 4/5 |
+| [Q3](#q3-raisonnement-juridique-formel-par-argumentation-et-logique) | Raisonnement juridique formel par argumentation et logique | 3/5 |
 
 ### Categorie R : Raisonnement sous Incertitude et Revision des Croyances
 
@@ -298,9 +298,9 @@ Les notebooks suivants sont disponibles dans le depot CoursIA ([jsboige/CoursIA]
 
 | # | Sujet | Difficulte |
 |---|-------|------------|
-| [R1](#r1---revision-des-croyances-par-les-postulats-agm) | Revision des croyances par les postulats AGM | 3/5 |
-| [R2](#r2---programmation-probabiliste-avec-infernet) | Programmation probabiliste avec Infer.NET | 3/5 |
-| [R3](#r3---raisonnement-epistemique-et-logique-multi-agents) | Raisonnement epistemique et logique multi-agents | 4/5 |
+| [R1](#r1-revision-des-croyances-par-les-postulats-agm) | Revision des croyances par les postulats AGM | 3/5 |
+| [R2](#r2-programmation-probabiliste-avec-infernet) | Programmation probabiliste avec Infer.NET | 3/5 |
+| [R3](#r3-raisonnement-epistemique-et-logique-multi-agents) | Raisonnement epistemique et logique multi-agents | 4/5 |
 
 ---
 
